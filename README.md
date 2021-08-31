@@ -28,4 +28,4 @@ I am a student studying environmental science.<br>
 
 ## :🛠: Skills
 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
